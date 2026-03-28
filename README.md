@@ -5,9 +5,10 @@
 Task Pad is a lightweight, all-in-one desktop productivity tool built with Python. It features a versatile **Text Editor** for long-form writing and a dedicated **Task Manager** for tracking daily to-do items.
 
 output of my project
-
-
-
+![image alt](https://github.com/karthik-s-22222/Project-using-tkinter/blob/46455869135faf6b0d10c1f0e69314a1a5d19a7a/output1.png)
+![image alt](
+![image alt](
+![image alt](
 📂 How the Code Works (Line-by-Line)
 1. Core Setup & Imports
 import tkinter as tr: Imports the standard Python interface for creating the Graphic User Interface (GUI).
