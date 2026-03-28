@@ -4,11 +4,6 @@
 
 Task Pad is a lightweight, all-in-one desktop productivity tool built with Python. It features a versatile **Text Editor** for long-form writing and a dedicated **Task Manager** for tracking daily to-do items.
 
-output of my project
-![image alt](https://github.com/karthik-s-22222/Project-using-tkinter/blob/46455869135faf6b0d10c1f0e69314a1a5d19a7a/output1.png)
-![image alt](https://github.com/karthik-s-22222/Project-using-tkinter/blob/3e83b491d0272218f4c0cb7be49723e148c91db1/output2.png)
-![image alt](https://github.com/karthik-s-22222/Project-using-tkinter/blob/3c2c53340e539f40b950f36a58f82c60dbc7df8c/output3.png)
-![image alt](
 📂 How the Code Works (Line-by-Line)
 1. Core Setup & Imports
 import tkinter as tr: Imports the standard Python interface for creating the Graphic User Interface (GUI).
@@ -33,6 +28,13 @@ add_cascade(...): Creates the drop-down categories (e.g., File, Edit, Help).
 add_command(...): Links a specific text label (like "Save") to its Python function.
 6. Execution
 simple.mainloop(): The final engine that keeps the window open and "listens" for mouse clicks or keyboard typing.
+
+
+output of my project
+![image alt](https://github.com/karthik-s-22222/Project-using-tkinter/blob/46455869135faf6b0d10c1f0e69314a1a5d19a7a/output1.png)
+![image alt](https://github.com/karthik-s-22222/Project-using-tkinter/blob/3e83b491d0272218f4c0cb7be49723e148c91db1/output2.png)
+![image alt](https://github.com/karthik-s-22222/Project-using-tkinter/blob/3c2c53340e539f40b950f36a58f82c60dbc7df8c/output3.png)
+![image alt](https://github.com/karthik-s-22222/Project-using-tkinter/blob/8d1429cec1bff07ad3c89069c4c576ce6a206ae8/output4.png)
 
 ## 🚀 Key Features
 
