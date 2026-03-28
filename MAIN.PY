@@ -13,14 +13,6 @@ simple= tr.Tk()
 simple.title (" Task Pad (TP) ")
 simple.geometry( '900x600' )
 
-folder_path = os.path.dirname(os.path.abspath(r"C:\Users\DELL\Desktop\PROJECT 021"))
-icon_path = os.path.join(folder_path, "taskpad.ico")
-
-try:
-    simple.iconbitmap(icon_path)
-except Exception as e:
-    print(f"Icon Error: {e}")
-
 # Font setter/setting
 text =tr.Text(
     simple,
