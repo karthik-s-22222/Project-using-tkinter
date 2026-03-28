@@ -49,6 +49,6 @@ simple.mainloop(): The final engine that keeps the window open and "listens" for
 ## 📥 Installation & Usage
 
 1. **Clone the repository:**
-   ```bash
    git clone https://github.com
+or download by pressing code and zip file can be downloaded
 
