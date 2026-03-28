@@ -6,7 +6,7 @@ Task Pad is a lightweight, all-in-one desktop productivity tool built with Pytho
 
 output of my project
 ![image alt](https://github.com/karthik-s-22222/Project-using-tkinter/blob/46455869135faf6b0d10c1f0e69314a1a5d19a7a/output1.png)
-![image alt](
+![image alt](https://github.com/karthik-s-22222/Project-using-tkinter/blob/3e83b491d0272218f4c0cb7be49723e148c91db1/output2.png)
 ![image alt](
 ![image alt](
 📂 How the Code Works (Line-by-Line)
