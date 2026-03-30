@@ -2,7 +2,7 @@
 
 # Task Pad (TP)
 
-Task Pad is a lightweight, all-in-one desktop productivity tool built with Python. It features a versatile **Text Editor** for long-form writing and a dedicated **Task Manager** for tracking daily to-do items.
+Task Pad is a lightweight, all-in-one desktop productivity tool built with Python. It features a versatile Text Editor for long-form writing and a dedicated **Task Manager** for tracking daily to-do items.
 
 📂 How the Code Works (Line-by-Line)
 1. Core Setup & Imports
