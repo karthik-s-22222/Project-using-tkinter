@@ -1,8 +1,0 @@
-- name: Test with pytest
-  run: |
-    # run pytest only if tests exist
-    if ls tests/test_*.py tests/*test_*.py test_*.py 1> /dev/null 2>&1; then
-      pytest
-    else
-      echo "No tests found — skipping pytest"
-    fi
