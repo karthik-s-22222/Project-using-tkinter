@@ -38,3 +38,10 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+        - name: Test with pytest
+  run: |
+    if [ -d "tests" ] || ls -1 test_*.py *_test.py 2>/dev/null | grep -q . ; then
+      pytest
+    else
+      echo "No tests found — skipping pytest"
+    fi
